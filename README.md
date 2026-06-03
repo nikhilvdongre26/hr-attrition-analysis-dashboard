@@ -29,6 +29,28 @@ The goal is to identify key attrition drivers, workforce demographics and employ
 - Created Tenure Groups
 - Built Attrition Flag metrics
 
+## Dashboard Features
+
+### HR Executive Dashboard
+- Workforce KPIs
+- Department-wise Attrition Analysis
+- Job Role Analysis
+- Age Group Analysis
+
+### Attrition Drivers Analysis
+- Overtime Impact
+- Income Impact
+- Tenure Analysis
+- Job Satisfaction Analysis
+- Work-Life Balance Analysis
+
+### Workforce Demographics
+- Department Distribution
+- Gender Distribution
+- Education Profile
+- Marital Status Analysis
+- Workforce Age Distribution
+
 ## Dashboard Pages
 
 ### HR Executive Dashboard
