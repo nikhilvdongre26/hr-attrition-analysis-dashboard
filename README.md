@@ -78,15 +78,19 @@ The goal is to identify key attrition drivers, workforce demographics and employ
 
 ## Technical Skills Demonstrated
 
-- Data Cleaning
+- Advanced Excel
+- Data Cleaning & Validation
 - Data Transformation
 - HR Analytics
 - DAX Measures
-- Dashboard Development
-- KPI Reporting
-- Workforce Analysis
+- Data Modeling
+- KPI Development
+- Dashboard Design
+- Workforce Analytics
 - Data Visualization
 
 ## Conclusion
 
-The dashboard helps HR teams identify attrition risks and workforce trends, enabling data-driven retention strategies.
+The analysis revealed that employee attrition was strongly associated with overtime, lower income levels, and shorter tenure. Research & Development recorded the highest attrition among departments, while Laboratory Technicians experienced the highest employee turnover among job roles.
+
+The dashboard enables HR teams to monitor workforce trends, identify retention risks, and support data-driven decision-making.
